@@ -1,0 +1,31 @@
+in parallel
+\n10000
+1 Platforms found
+1 Devices found
+Max workgroup size is 1024
+check (1:0 T:F):1
+Time for 10000 numbers sort in serial is 0.687429 second
+\n30000
+1 Platforms found
+1 Devices found
+Max workgroup size is 1024
+check (1:0 T:F):1
+Time for 30000 numbers sort in serial is 0.897858 second
+\n50000
+1 Platforms found
+1 Devices found
+Max workgroup size is 1024
+check (1:0 T:F):1
+Time for 50000 numbers sort in serial is 1.110831 second
+\n70000
+1 Platforms found
+1 Devices found
+Max workgroup size is 1024
+check (1:0 T:F):1
+Time for 70000 numbers sort in serial is 1.356153 second
+\n90000
+1 Platforms found
+1 Devices found
+Max workgroup size is 1024
+check (1:0 T:F):1
+Time for 90000 numbers sort in serial is 1.640650 second
